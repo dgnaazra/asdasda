@@ -1,0 +1,4 @@
+Proje Raporu doc dosyasının içindedir.
+
+
+Test dosyası mutlaka ama mutlaka jar dosyası ile aynı klasörde bulunmalıdır. Aksi halde hata fırlatılacaktır. 
